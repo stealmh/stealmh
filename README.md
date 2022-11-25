@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stealmh)](https://github.com/stealmh/github-readme-stats) <br>
