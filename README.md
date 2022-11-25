@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=python&logoColor=white"/> <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stealmh)](https://github.com/stealmh/github-readme-stats) <br>
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=stealmh)](https://solved.ac/stealmh)
