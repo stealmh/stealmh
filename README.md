@@ -3,8 +3,9 @@
 - KindSoft (2023.03 ~ 2023.08) Intern (iOS Developer)
 
 #### Other Experience
+- [YAPP](https://www.yapp.co.kr/) 24th, iOS (2024.05 ~ ing)
 - [TCA 1.0 한국어 가이드 e-book](https://ridibooks.com/books/2773000087) (2023.08 ~ 2023.10)
-- [CMC](https://cmc.makeus.in/) 13th (2023.06 ~ 2023.09)
+- [CMC](https://cmc.makeus.in/) 13th, iOS (2023.06 ~ 2023.09)
 
 #### Projects
 - [Playte - 숏폼기반 요리 레시피 커뮤니티](https://github.com/stealmh/Re_Cipe_iOS) (2023.07 ~ 2023.09)
