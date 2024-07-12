@@ -1,5 +1,5 @@
 ### Work Experience
-- UBIPLUS (2023.09 ~ ing) iOS Developer
+- UBIPLUS (2023.09 ~ 2024.07) iOS Developer
 - KindSoft (2023.03 ~ 2023.08) Intern (iOS Developer)
 
 #### Other Experience
