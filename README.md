@@ -1,4 +1,5 @@
 ### Work Experience
+- 아소비교육 (2024.08 ~ ) (AOS / iOS) Developer
 - UBIPLUS (2023.09 ~ 2024.07) iOS Developer
 - KindSoft (2023.03 ~ 2023.08) Intern (iOS Developer)
 
