@@ -14,4 +14,4 @@
 
 
 ## TCA Posts
-- [Shared(Sharing)이 무엇일까? 공식문서로 같이 톺아보기](https://minmotti.tistory.com/31)
+- [Shared(Sharing)이 무엇일까? 공식문서로 같이 톺아보기](https://velog.io/@stealmh/Swift-SharedSharing%EC%9D%B4-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EB%A1%9C-%EA%B0%99%EC%9D%B4-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-feat.-TCA)
